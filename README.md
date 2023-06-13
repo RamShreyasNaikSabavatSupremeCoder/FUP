@@ -1,2 +1,2 @@
 # FUP ( Making Fantasy Unit Project )
-https://github.com/RamShreyasNaikSabavatSupremeCoder/FUP/blob/main/FUP.html
+- http://htmlpreview.github.io/?https://github.com/RamShreyasNaikSabavatSupremeCoder/FUP/blob/main/FUP.html
